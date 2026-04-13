@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| April 13 | https://github.com/howardchung/watchparty/pull/1053 | watchparty.me | Added a popup chat feature |
 |     |     |     |      |
 |     |     |     |      |
