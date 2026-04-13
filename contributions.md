@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| April 13 | https://github.com/howardchung/watchparty/pull/1053 | watchparty.me | Added a popup chat feature |
+| April 13 | [Feature](https://github.com/howardchung/watchparty/pull/1053) | watchparty.me | Popup chat added |
 |     |     |     |      |
 |     |     |     |      |
