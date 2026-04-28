@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | April 13 | [PR](https://github.com/howardchung/watchparty/pull/1053) | Feature | Popup chat added to [watchparty](watchparty.me) rooms|
-|     |     |     |      |
-|     |     |     |      |
+| April 20 | [PR](https://github.com/tommyxchow/frosty/pull/556)   | Feature | Select users to highlight their messages |
+| April 28 | [PR](https://github.com/tommyxchow/frosty/pull/557)  |  Design  | There no option to revert to the default color theme |
